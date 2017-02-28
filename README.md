@@ -677,4 +677,6 @@ public class ListAdapter: BaseAdapter<TranslationRecord>
 ```
 - Run the app. Enter a value to be translated. Click the "Translate" button and then check the table in your hasura console. You should see a new entry. You can also click on the "Translation History" button and get a list of saved translations from the db.
 
+**Since we are using PCLs for our APIs, these can be reused for iOS in the same way**
+
 **NOTE: Errors have not been handled and you need to write code specific to your use case to handle errors while making API calls**
