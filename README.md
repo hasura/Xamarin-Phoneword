@@ -484,7 +484,7 @@ namespace Phoneword
 - Adding Permissions : We need to add internet permissions to the android app. For this, Go to Properties > AndroidManifest > Required Permissions > And check the Internet box.
 - Add another button in Main.axml
 
-```csharp 
+```xml 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
@@ -596,7 +596,7 @@ namespace Phoneword.Droid
 ```
 - TranslationHistory.axml would be 
 
-```csharp 
+```xml 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 android:orientation="vertical"
@@ -665,7 +665,7 @@ public class ListAdapter: BaseAdapter<TranslationRecord>
 ```
 - Finally, HistoryItem would be :
 
-```csharp 
+```xml 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
