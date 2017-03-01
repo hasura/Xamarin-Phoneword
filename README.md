@@ -312,6 +312,8 @@ namespace Phoneword
 	}
 }
 ```
+
+Here, change the `PROJECT_NAME` to the name of your project.
   
 - Inserting a row into the table will be done using the following query :
 
