@@ -100,7 +100,7 @@ There are three steps to complete this project
 - Use `Button` to call this translated number. Name it as `CallButton` & set the Text property to **Call**
 - The UI should look like this:
 
-![01 Phoneword U I](Finish/Phoneword/Phoneword.Droid/ScreenImages/01-Phoneword-UI.PNG)
+![01 Phoneword U I](Droid/ScreenImages/01-Phoneword-UI.PNG)
 
 - Alternatively, use following code to create this this UI
 
@@ -192,7 +192,7 @@ private void CallButton_Click(object sender, System.EventArgs e)
 
 Android applications require permissions to execute tasks like making a phone call. Open 'Properties' of the application and give permission to call.
 
-![02 Call Permission](Finish/Phoneword/Phoneword.Droid/ScreenImages/02-Call-Permission.PNG)
+![02 Call Permission](Droid/ScreenImages/02-Call-Permission.PNG)
 
 Now run the app and see it in action.
 
@@ -215,7 +215,7 @@ There are three steps to complete this project
 - Use `Button` to call this translated number. Name it as **CallButton** & set the Text property to **Call**
 - The UI should look like this:
 
-![01 I O S U I](Finish/Phoneword/Phoneword.iOS/ScreenImage/01-iOS-UI.png)
+![01 I O S U I](iOS/ScreenImage/01-iOS-UI.png)
 
 **Step 2: Adding code behind**
 
