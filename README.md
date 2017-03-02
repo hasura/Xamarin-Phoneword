@@ -18,7 +18,7 @@ This lab requires Xamarin components installed on Mac or on Windows. Download or
 
 You can open existing Phoneword application from this repository or create a cross-platform 'Blank App (Native Portable)'. This will create projects for Portable Class Library, Android and iOS. 
 
-![01 Project Template Selection](Finish/Phoneword/Phoneword.Portable/ScreenImages/01-Project-Template-Selection.png)
+![01 Project Template Selection](ScreenImages/01-Project-Template-Selection.png)
 
 Now, let's build these projects individually. 
 
